@@ -1,0 +1,100 @@
+<mxfile host="Electron" modified="2023-10-06T15:55:33.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="8nTdcAd0XbKjVn4FDJky" version="21.7.5" type="device">
+  <diagram name="Pagina-1" id="gtCOrJHjEEGI-aQ0EO66">
+    <mxGraphModel dx="1104" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="20" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Wy2NNbRc6BiJEszVgS6l-1" vertex="1">
+          <mxGeometry x="5" y="70" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-2" value="Rider" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-4" value="Bottone &quot;Invia Orari&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="140" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Wy2NNbRc6BiJEszVgS6l-4" vertex="1">
+          <mxGeometry x="45" y="110" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-6" value="Control &quot;Stato Orario Di Lavoro&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="260" y="170" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Wy2NNbRc6BiJEszVgS6l-6" vertex="1">
+          <mxGeometry x="45" y="110" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Wy2NNbRc6BiJEszVgS6l-6" vertex="1">
+          <mxGeometry x="45" y="415" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-8" value="Form &quot;immetti Orari Di Lavoro&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="390" y="300" width="100" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Wy2NNbRc6BiJEszVgS6l-8" vertex="1">
+          <mxGeometry x="45" y="200" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-18" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="Wy2NNbRc6BiJEszVgS6l-8" vertex="1">
+          <mxGeometry x="35" y="295" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44_3tj6ZGiSdgLJM33vV-5" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="Wy2NNbRc6BiJEszVgS6l-8" vertex="1">
+          <mxGeometry x="35" y="454" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-9" value="ImmettiOrari()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="170" as="sourcePoint" />
+            <mxPoint x="189.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-10" value="&amp;lt;&amp;lt;create&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="190" y="189.5" as="sourcePoint" />
+            <mxPoint x="270" y="189.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-11" value="&amp;lt;&amp;lt;create&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="310" y="310" as="sourcePoint" />
+            <mxPoint x="390" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-13" value="Compila()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="Wy2NNbRc6BiJEszVgS6l-8" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="530" as="sourcePoint" />
+            <mxPoint x="130" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-15" value="InviaOrari()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="L0XQHJzS4myCxm1PFdBO-2" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="438" y="740" as="sourcePoint" />
+            <mxPoint x="308" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-17" value="&amp;lt;&amp;lt;destroy&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="308.25" y="610" as="sourcePoint" />
+            <mxPoint x="437.75" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wy2NNbRc6BiJEszVgS6l-19" value="OrariSbagliati" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="323" y="570" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44_3tj6ZGiSdgLJM33vV-4" value="&amp;lt;&amp;lt;destroy&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="Wy2NNbRc6BiJEszVgS6l-8" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="310" y="770" as="sourcePoint" />
+            <mxPoint x="390" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0XQHJzS4myCxm1PFdBO-3" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="L0XQHJzS4myCxm1PFdBO-2" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="438" y="740" as="sourcePoint" />
+            <mxPoint x="308" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0XQHJzS4myCxm1PFdBO-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="435" y="710" width="10" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

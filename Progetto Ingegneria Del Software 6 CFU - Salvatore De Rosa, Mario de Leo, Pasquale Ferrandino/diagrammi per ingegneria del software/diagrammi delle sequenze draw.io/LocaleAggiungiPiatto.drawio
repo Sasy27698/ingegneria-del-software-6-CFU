@@ -1,0 +1,103 @@
+<mxfile host="Electron" modified="2023-12-06T16:45:14.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="xHJP-r7gFS-iaPLFG-3v" version="22.1.2" type="device">
+  <diagram name="Pagina-1" id="yOUdWJ98L4hP2ykzK0ro">
+    <mxGraphModel dx="1104" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kFHHR7okISs6QqQCtftT-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="20" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kFHHR7okISs6QqQCtftT-1" vertex="1">
+          <mxGeometry x="5" y="90" width="10" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-2" value="Locale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="20" y="13" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-4" value="&amp;lt;&amp;lt;create&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="140" as="sourcePoint" />
+            <mxPoint x="130" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-5" value="Bottone &quot;Inserisci Menù&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="130" y="120" width="100" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kFHHR7okISs6QqQCtftT-5" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-7" value="Aggiungi()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="kFHHR7okISs6QqQCtftT-8" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="180" y="220" as="sourcePoint" />
+            <mxPoint x="300" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-8" value="Bottone &quot;Aggiungi Piatto&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="300" y="139" width="100" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kFHHR7okISs6QqQCtftT-8" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-12" value="&amp;lt;&amp;lt;create&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="350" y="280" as="sourcePoint" />
+            <mxPoint x="430" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-14" value="Control &quot;Aggiungi Piatto&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="430" y="260" width="100" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kFHHR7okISs6QqQCtftT-14" vertex="1">
+          <mxGeometry x="45" y="50" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kFHHR7okISs6QqQCtftT-14" vertex="1">
+          <mxGeometry x="45" y="270" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-16" value="&amp;lt;&amp;lt;create&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="480" y="340" as="sourcePoint" />
+            <mxPoint x="560" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-17" value="Form &quot;Aggiungi Piatto&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="560" y="320" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kFHHR7okISs6QqQCtftT-17" vertex="1">
+          <mxGeometry x="45" y="50" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-24" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="kFHHR7okISs6QqQCtftT-17" vertex="1">
+          <mxGeometry x="35" y="313" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-27" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="kFHHR7okISs6QqQCtftT-17" vertex="1">
+          <mxGeometry x="35" y="265" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-20" value="Compila()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="kFHHR7okISs6QqQCtftT-17" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="469.5" as="sourcePoint" />
+            <mxPoint x="130" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-22" value="InviaForm()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="kFHHR7okISs6QqQCtftT-17" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="550" y="540" as="sourcePoint" />
+            <mxPoint x="480" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-23" value="&amp;lt;&amp;lt;destroy&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="kFHHR7okISs6QqQCtftT-17" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="480" y="650" as="sourcePoint" />
+            <mxPoint x="560" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-25" value="PiattoGiaEsistente()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="kFHHR7okISs6QqQCtftT-17" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="480" y="600" as="sourcePoint" />
+            <mxPoint x="560" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFHHR7okISs6QqQCtftT-26" value="&amp;lt;&amp;lt;destroy&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="495" y="564" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

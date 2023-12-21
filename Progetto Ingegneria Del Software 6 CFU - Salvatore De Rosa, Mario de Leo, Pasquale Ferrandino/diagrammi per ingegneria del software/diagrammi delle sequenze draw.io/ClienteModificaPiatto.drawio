@@ -1,0 +1,97 @@
+<mxfile host="Electron" modified="2023-12-07T14:40:58.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="_M-fpzQTT_Df_Dn7i4WX" version="22.1.2" type="device">
+  <diagram name="Pagina-1" id="-2wc7BoUkvTa7ymk6uY-">
+    <mxGraphModel dx="1104" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bYqrFFN91UmJ5oIR0BR8-1" vertex="1">
+          <mxGeometry x="5" y="60" width="10" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-2" value="Cliente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-5" value="[piatti_nel_carrello &amp;gt; 0]" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" target="bYqrFFN91UmJ5oIR0BR8-9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="190" y="230" as="sourcePoint" />
+            <mxPoint x="320" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-6" value="Bottone &quot;Modifica Piatto Ordine&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="134" y="30" width="100" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bYqrFFN91UmJ5oIR0BR8-6" vertex="1">
+          <mxGeometry x="45" y="90" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-8" value="AvviaModifica()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" target="bYqrFFN91UmJ5oIR0BR8-7">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="150" as="sourcePoint" />
+            <mxPoint x="220" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-9" value="Control &quot;Modifica Ordine Piatto&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="350" y="50" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bYqrFFN91UmJ5oIR0BR8-9" vertex="1">
+          <mxGeometry x="45" y="170" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RDmibzuAJwgMnC9_8QWU-5" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="bYqrFFN91UmJ5oIR0BR8-9">
+          <mxGeometry x="35" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-11" value="&amp;lt;&amp;lt;create&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+            <mxPoint x="560" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-12" value="Form &quot;Modifica Ordine Piatto&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="560" y="270" width="100" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bYqrFFN91UmJ5oIR0BR8-12" vertex="1">
+          <mxGeometry x="45" y="50" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-17" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="bYqrFFN91UmJ5oIR0BR8-12" vertex="1">
+          <mxGeometry x="35" y="175" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-14" value="InviaForm()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="609.5" y="409" as="sourcePoint" />
+            <mxPoint x="405" y="409" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-16" value="&amp;lt;&amp;lt;destroy&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="bYqrFFN91UmJ5oIR0BR8-12" edge="1" source="bYqrFFN91UmJ5oIR0BR8-15">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="480" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-20" value="Compila()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="bYqrFFN91UmJ5oIR0BR8-12" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="360" as="sourcePoint" />
+            <mxPoint x="130" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDmibzuAJwgMnC9_8QWU-1" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="bYqrFFN91UmJ5oIR0BR8-15">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="610" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bYqrFFN91UmJ5oIR0BR8-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="395" y="380" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RDmibzuAJwgMnC9_8QWU-2" value="[piatti_nel_carrello &amp;lt;= 0]" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="180" y="325" as="sourcePoint" />
+            <mxPoint x="399.5" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDmibzuAJwgMnC9_8QWU-4" value="&amp;lt;&amp;lt;destroy&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="253" y="286" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
